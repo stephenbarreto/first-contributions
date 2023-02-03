@@ -694,6 +694,7 @@ Rishabh Pandey
 - [Vikhyat Gupta@DevsocPI]
 - [Aondrej-Ryan](https://github.com/aryan10293)
 - [Jônatas Pereira](https://github.com/euJonatasDev)
+- [Stephen Barreto](https://github.com/stephenbarreto)
 - [Anagh Bhasker](https://github.com/anaghbhasker)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Bharat Tyagi](https://github.com/BharatAtbrat)]
